@@ -11,7 +11,7 @@
 
 - Enables users to search, sort, and filter food items easily.
 
-##Live Location:
+## Live Location:
 
 - Fetches and displays the user's live location using the Geolocation API.
 
@@ -19,7 +19,7 @@
 
 - Displays food items specific to the user's city.
 
-##Handling Location Mismatch:
+## Handling Location Mismatch:
 
 - Shows an appropriate message if the user's location does not match the food's delivery location.
 
