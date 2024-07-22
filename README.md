@@ -29,7 +29,7 @@
 - Displays selected food items in the cart with features like updating quantities, removing items, and viewing the total price.
 - Implements a checkout process where users can confirm their order.
 
-##JSON Server:
+## JSON Server:
 
 - Manages and stores user data, food items, and order details.
 - Makes necessary API calls to fetch and update data from the JSON Server.
