@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FEF3E2;
+}
+
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.form-control, .btn-outline-success {
+    border-radius: 0;
+}
+
+#loginForm {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+#loginForm div {
+    margin-bottom: 15px;
+}
+
+#loginForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+
+#loginForm input[type="email"],
+#loginForm input[type="password"]
+{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#loginForm input[type="submit"] {
+    background-color: #606676;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#loginForm input[type="submit"]:hover {
+    background-color: #606676;
+}

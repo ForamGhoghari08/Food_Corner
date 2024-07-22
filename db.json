@@ -1,0 +1,364 @@
+{
+  "foods": [
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=437132796f5ab985f4f35b035018d9bd-5464818-images-thumbs&n=13",
+      "food_name": "Margherita Pizza",
+      "food_price": 8.99,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.5,
+      "food_category": "Veg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=ff648c1ada669a760840765950168e7f3b155280-10071482-images-thumbs&n=13",
+      "food_name": "Chicken Burger",
+      "food_price": 5.99,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.7,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=ba00a28b867e6dc7919976b40c9f490d64c7f322-9843420-images-thumbs&n=13",
+      "food_name": "Veg Biryani",
+      "food_price": 7.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.2,
+      "food_category": "Veg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=853d5178e8378545ffba78fb8d4e2a7a2a02fb72-12714643-images-thumbs&n=13",
+      "food_name": "Paneer Tikka",
+      "food_price": 6.49,
+      "food_delivery_time": "20 mins",
+      "food_rating": 4.6,
+      "food_category": "Veg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=718e87491c0ccee58f548ac1508ab460-5698543-images-thumbs&n=13",
+      "food_name": "Fish Curry",
+      "food_price": 9.99,
+      "food_delivery_time": "40 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=4e92e5c9d5b9c5a3bbf67186f7774795a1daaa7a-7677819-images-thumbs&n=13",
+      "food_name": "Egg Sandwich",
+      "food_price": 4.99,
+      "food_delivery_time": "15 mins",
+      "food_rating": 4.4,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=5d7bd760f4340a631a38c4f0e4da1bd56c9de467-12434061-images-thumbs&n=13",
+      "food_name": "Veg Momos",
+      "food_price": 3.99,
+      "food_delivery_time": "10 mins",
+      "food_rating": 4.1,
+      "food_category": "Veg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=12277b1a027c86c762f75dce32a3e001d587eb46-10096313-images-thumbs&n=13",
+      "food_name": "Chicken Shawarma",
+      "food_price": 5.49,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.5,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=6bcb945759046ede07150119a2b5b2e2-5869570-images-thumbs&n=13",
+      "food_name": "Daal Makhani",
+      "food_price": 6.99,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.7,
+      "food_category": "Veg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=0c9c7032b3a3aed6aa82589b27c4002863198ae3-6392895-images-thumbs&n=13",
+      "food_name": "Butter Chicken",
+      "food_price": 10.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.9,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Surat"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=e14ed158a976eaadf21d84813c082746-4010891-images-thumbs&n=13",
+      "food_name": "Paneer Butter Masala",
+      "food_price": 8.99,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.5,
+      "food_category": "Veg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=74a3944b2c4a3c1aba1f3e18bc3b2b0a-3572439-images-thumbs&n=13",
+      "food_name": "Beef Steak",
+      "food_price": 15.99,
+      "food_delivery_time": "45 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=988990ba97a42f671a6a057fefb08724143d003a-10702804-images-thumbs&n=13",
+      "food_name": "Chicken Tandoori",
+      "food_price": 12.99,
+      "food_delivery_time": "50 mins",
+      "food_rating": 4.7,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=57109085c67f71d362dc8e5206b44644da86248e-10516767-images-thumbs&n=13",
+      "food_name": "Aloo Paratha",
+      "food_price": 3.49,
+      "food_delivery_time": "20 mins",
+      "food_rating": 4.3,
+      "food_category": "Veg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=eb1248e32298a7b31ba5ead6514c748a-4228658-images-thumbs&n=13",
+      "food_name": "Fish Fry",
+      "food_price": 7.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.5,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=20870244ec513d09965848d2dbd438ff-4566480-images-thumbs&n=13",
+      "food_name": "Chole Bhature",
+      "food_price": 5.99,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.6,
+      "food_category": "Veg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=79c5ffd13280bbeeb11e31fc4aa82d36af4b04c4-7663592-images-thumbs&n=13",
+      "food_name": "Mutton Rogan Josh",
+      "food_price": 13.99,
+      "food_delivery_time": "55 mins",
+      "food_rating": 4.9,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=8cfdddb676be6c50e5c5fded87c94d473652f23eaa482503-12322699-images-thumbs&n=13",
+      "food_name": "Paneer Chilli",
+      "food_price": 7.49,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.4,
+      "food_category": "Veg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=6deb137f600fecfcb6d7d523282d5e2a-4497589-images-thumbs&n=13",
+      "food_name": "Veg Kebab",
+      "food_price": 6.99,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.6,
+      "food_category": "Veg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=b858852f421a5a0a4f9e022da0a47d1885fb1b5f-10976941-images-thumbs&n=13",
+      "food_name": "Chicken Biryani",
+      "food_price": 9.99,
+      "food_delivery_time": "40 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Mumbai"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=83e8e4ae2d8212aaa66d30bba6134f79-5435831-images-thumbs&n=13",
+      "food_name": "Mushroom Soup",
+      "food_price": 4.99,
+      "food_delivery_time": "15 mins",
+      "food_rating": 4.2,
+      "food_category": "Veg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=762f9fe56539eed22f5db1cd52dae9f3-5241338-images-thumbs&n=13",
+      "food_name": "Grilled Chicken",
+      "food_price": 11.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.6,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=0fbd37e32a004e95dfa47dfed096ccb6-4034527-images-thumbs&n=13",
+      "food_name": "Veg Pulao",
+      "food_price": 6.99,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.5,
+      "food_category": "Veg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=590bbf1c3465f1ded4ac7c78071ae98a-5829296-images-thumbs&n=13",
+      "food_name": "Mutton Biryani",
+      "food_price": 14.99,
+      "food_delivery_time": "45 mins",
+      "food_rating": 4.9,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=d188eccb45fac127e61a08c11b85135971af08e9653d24b3-12925699-images-thumbs&n=13",
+      "food_name": "Paneer Tikka Masala",
+      "food_price": 9.99,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.7,
+      "food_category": "Veg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=cba79622b32dfdc2cee6ce960bd4cb932a7df25d-11865037-images-thumbs&n=13",
+      "food_name": "Prawn Curry",
+      "food_price": 12.99,
+      "food_delivery_time": "40 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=03af265c7795b1f9b7b064bb0f84b3785da50d7b-4827339-images-thumbs&n=13",
+      "food_name": "Veg Spring Rolls",
+      "food_price": 3.99,
+      "food_delivery_time": "15 mins",
+      "food_rating": 4.3,
+      "food_category": "Veg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=5ec0beb3ec76c1c1e7d0f380db2794de4991f9c7419930d5-10703615-images-thumbs&n=13",
+      "food_name": "Chicken Wings",
+      "food_price": 8.49,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.6,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=8274edb58795c42d8e9a4fd7de35b65422cba687-10413045-images-thumbs&n=13",
+      "food_name": "Veggie Pizza",
+      "food_price": 10.49,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.5,
+      "food_category": "Veg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=14d2cedd7278da445375ab6f604e7aa3-4634814-images-thumbs&n=13",
+      "food_name": "Lamb Chops",
+      "food_price": 16.99,
+      "food_delivery_time": "50 mins",
+      "food_rating": 4.9,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Bangalore"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=42a5586180259eebae9744de39e68b31-5243384-images-thumbs&n=13",
+      "food_name": "Veg Burger",
+      "food_price": 5.49,
+      "food_delivery_time": "20 mins",
+      "food_rating": 4.4,
+      "food_category": "Veg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=b1cd9bbd52116591ecba84c81ebd6e490c32cd32-10805549-images-thumbs&n=13",
+      "food_name": "Pork Ribs",
+      "food_price": 14.99,
+      "food_delivery_time": "45 mins",
+      "food_rating": 4.7,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=213c8bd126650e597fb8f0d2f0e1c24e-5008667-images-thumbs&n=13",
+      "food_name": "Veg Thali",
+      "food_price": 9.49,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.5,
+      "food_category": "Veg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=1c49efb038eef3f68daf1739051f548d-5134183-images-thumbs&n=13",
+      "food_name": "Chicken Kebab",
+      "food_price": 8.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=0b7cb31b9868e2bc0c761436c1cc5bf447aec6bb-8965182-images-thumbs&n=13",
+      "food_name": "Dal Tadka",
+      "food_price": 7.99,
+      "food_delivery_time": "25 mins",
+      "food_rating": 4.4,
+      "food_category": "Veg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=0e7401b91472555a95c1d17d0043ad50-5876837-images-thumbs&n=13",
+      "food_name": "Lamb Biryani",
+      "food_price": 13.99,
+      "food_delivery_time": "40 mins",
+      "food_rating": 4.7,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=3ce0b62abfda2448797cd5b971f64de4ee2bcdf6-7085138-images-thumbs&n=13",
+      "food_name": "Hakka Noodles",
+      "food_price": 5.99,
+      "food_delivery_time": "20 mins",
+      "food_rating": 4.3,
+      "food_category": "Veg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=1e9f512f84d241f34ba055b4181d605e-5887660-images-thumbs&n=13",
+      "food_name": "Chicken Tikka",
+      "food_price": 11.99,
+      "food_delivery_time": "30 mins",
+      "food_rating": 4.9,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=bb9bd26970b779b2838e01846969938650284c89-5233604-images-thumbs&n=13",
+      "food_name": "Paneer Roll",
+      "food_price": 4.99,
+      "food_delivery_time": "15 mins",
+      "food_rating": 4.2,
+      "food_category": "Veg",
+      "food_delivery_location": "Pune"
+    },
+    {
+      "food_image": "https://avatars.mds.yandex.net/i?id=d6a9e1393d45766e730d2f218250fd78-3675767-images-thumbs&n=13",
+      "food_name": "Prawn Biryani",
+      "food_price": 12.99,
+      "food_delivery_time": "35 mins",
+      "food_rating": 4.8,
+      "food_category": "NonVeg",
+      "food_delivery_location": "Pune"
+    }
+  ]
+}
